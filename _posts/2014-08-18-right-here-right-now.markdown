@@ -2,7 +2,7 @@
 layout: post
 title:  Right here, right now!
 date:   2014-08-18 14:47:28
-categories: hello world
+categories: 
 ---
 Fortunately or unfortunately, there is no degree for Product Management. There is no prescribed path to becoming a product manager either. If you assembled a bunch of product managers, you would have a ragtag team of misfits, hackers, and troublemakers who cannot sit still. They come from all walks of life and have a variety of backgrounds. They have degrees ranging from the traditional, such as business administration, to the esoteric. Every product manager comes from somewhere else. And once they arrive, there are few primers to help, varying schools of thought, and no roadmaps to follow.
 
