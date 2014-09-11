@@ -2,7 +2,7 @@
 title: Cataliso
 email: info@cataliso.com
 description: > # this means to ignore newlines until "baseurl:"
-  Behind every great product is a great product manager. Do you strive to be a great Product Manager? Read this blog by Ananth Vasishta.
+ If you love product, product management, product strategy, entrepreneurship and startups, read the professional blog for Ananth Vasishta on cataliso.com.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cataliso.com" # the base hostname & protocol for your site
 twitter_username: cataliso
