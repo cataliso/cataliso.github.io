@@ -2,7 +2,7 @@
 title: Cataliso
 email: info@cataliso.com
 description: > # this means to ignore newlines until "baseurl:"
- If you love product, product management, product strategy, entrepreneurship and startups, read the professional blog for Ananth Vasishta on cataliso.com.
+ Professional blog for Ananth Vasishta on product, product management, product strategy, entrepreneurship and startups.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cataliso.com" # the base hostname & protocol for your site
 twitter_username: cataliso
